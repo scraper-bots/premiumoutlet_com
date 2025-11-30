@@ -3,8 +3,6 @@ venv
 test_scrape.py
 
 # Large data files
-*.csv
-premium_outlet_products_*
 
 # Python cache
 __pycache__/
